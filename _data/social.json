@@ -1,12 +1,22 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "name": "Dibbble",
+    "link": "https://dribbble.com/BeautyAndTheByte",
+    "image": "images/social/dribbble.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/your-smart-future-coworker/",
+    "image": "images/social/linkedin.svg"
+  },
+  {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/beautyandthebyte/",
+    "image": "images/social/instagram.svg"
+  },
+  {
+    "name": "GitHub",
+    "link": "https://github.com/Franziska-Paetzold",
+    "image": "images/social/github.svg"
   }
 ]
