@@ -1,15 +1,12 @@
 ---
-title: "Business Sales"
-date: 2019-01-28T15:15:26+10:00
-weight: 2
+title: "Product Design"
+date: 2023-07-07T12:33:46+10:00
+weight: 1
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet
+With expertise rooted in a deep understanding of emotion, aesthetics, and user-centricity, I bring a visionary approach to crafting impactful and delightful experiences that resonate with users.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Product Design](/images/illustrations/undraw_details_8k13.svg)
 
 # Objectives
 
@@ -19,6 +16,8 @@ Financial accounting and financial reporting are often used as synonyms.
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
 3. According to the European Accounting Association:
 
+![Product Design](/images/illustrations/undraw_designer_life_re_6ywf.svg)
+
 ## Relevance
 
 Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
@@ -27,9 +26,13 @@ Relevance is the capacity of the financial information to influence the decision
 
 Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
+![Product Design](/images/illustrations/undraw_mobile_web_-2-g8b.svg)
+
 ## Faithful Representation
 
 Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+
+![Product Design](/images/illustrations/undraw_mobile_posts_re_bpuw.svg)
 
 ## Enhancing Qualitative Characteristics
 

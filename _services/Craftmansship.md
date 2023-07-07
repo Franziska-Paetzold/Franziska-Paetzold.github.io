@@ -1,14 +1,12 @@
 ---
-title: "Mergers"
-date: 2019-02-28T15:15:34+10:00
+title: "Craftsmanship"
+date: 2023-07-07T15:15:34+10:00
 weight: 3
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Engaging in craftsmanship disciplines such as pottery and sewing enhances creativity and innovation, even for digital roles like product design, by fostering a deep understanding of materials, attention to detail, and the ability to think beyond traditional boundaries. This hands-on experience instills a unique perspective and problem-solving approach that can transcend mediums, enabling design leaders to craft truly innovative and user-centric digital experiences.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Craftsmanship](/images/illustrations/undraw_tree_swing_re_pqee.svg)
 
 # Objectives
 
@@ -17,6 +15,8 @@ Financial accounting and financial reporting are often used as synonyms.
 1. According to International Financial Reporting Standards: the objective of financial reporting is:
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
 3. According to the European Accounting Association:
+
+![Craftsmanship](/images/illustrations/undraw_art_thinking_3g82.svg)
 
 ## Relevance
 

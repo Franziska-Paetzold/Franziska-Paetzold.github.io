@@ -1,12 +1,12 @@
 ---
-title: "Accounting"
-date: 2018-11-18T12:33:46+10:00
-weight: 1
+title: "Stickers 🚧"
+date: 2019-03-28T15:14:54+10:00
+weight: 5
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+This section is coming soon. Prepare for a delightful and awe-inspiring experience that promises abundant laughter and sheer amazement.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Stickers](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 

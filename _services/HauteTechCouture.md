@@ -1,12 +1,12 @@
 ---
-title: "Business Advisory"
-date: 2018-12-28T15:14:39+10:00
-weight: 4
+title: "Haute Tech Couture"
+date: 2023-07-07T15:15:26+10:00
+weight: 2
 ---
 
-Business advisory is the final tier of the accounting pyramid. Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
+Fashion Technology and Smart Wearables. From body architecture over 3D printing to physical computing.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Haute Tech Couture](/images/illustrations/undraw_fashion_photoshoot_mtq8.svg)
 
 # Objectives
 
