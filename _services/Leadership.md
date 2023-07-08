@@ -9,7 +9,11 @@ Leading with Heart: Harness the Power of Servant Leadership. By cultivating a cu
 
 - leading through self leading
 - happiness management meeting
-- ...
+- incrementell vs push and pull
+- design system
+- prozess pipeline
+- handover
+- deligation UX writing
 - 
 # Objectives
 

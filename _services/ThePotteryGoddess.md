@@ -1,15 +1,12 @@
 ---
-title: "Insurance"
+title: "The Pottery Goddess"
 date: 2019-05-18T12:33:46+10:00
 weight: 7
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Her atelier is where creativity takes shape! A major side hustle  - growing every day. Working like a craftsman – thinking like a designer. 
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![The Pottery Goddess](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 
