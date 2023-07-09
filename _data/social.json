@@ -15,6 +15,11 @@
     "image": "images/social/instagram.svg"
   },
   {
+    "name": "TikTok",
+    "link": "https://www.tiktok.com/@thepotterygoddess",
+    "image": "images/social/tiktok.svg"
+  },
+  {
     "name": "GitHub",
     "link": "https://github.com/Franziska-Paetzold",
     "image": "images/social/github.svg"
