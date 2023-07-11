@@ -1,6 +1,6 @@
 ---
 title: "Leadership"
-date: 2023-07-07T15:14:39+10:00
+date: 2023-07-11T15:14:39+10:00
 weight: 4
 ---
 
@@ -19,11 +19,15 @@ Leading with heart and embracing the power of servant leadership, design leaders
 # Leading Through Self-Leadership
 Embracing the concept of self-leadership, design leaders cultivate a sense of personal responsibility, self-awareness, and continuous growth. By leading ourselves first, we set a powerful example for our teams, inspiring them to embrace their own potential and take ownership of their work.
 
+> [Designers Unleashed: The Quest for Uninterrupted Focus Time!](https://dribbble.com/shots/21949840-Focus-Time) 
+
 ![Leadership](/images/illustrations/undraw_engineering_team_a7n2.svg)
 
 
 # Happiness Management Meetings: Spreading Joy in the Design Ecosystem
 Design leaders recognize the importance of fostering happiness within their teams. Through purposeful happiness management meetings, they create an environment that nurtures well-being, encourages collaboration, and sparks creativity. These meetings become a platform for sharing successes, addressing challenges, and nurturing a positive and supportive team culture.
+
+> [About Paper Planes and Software Struggles](https://dribbble.com/shots/21945959-Paper-Planes-and-Software-Struggles)
 
 ![Leadership](/images/illustrations/undraw_in_the_office_re_jtgc.svg)
 
@@ -35,15 +39,21 @@ A well-crafted design system serves as the backbone of a successful design organ
 # Process Pipelines: Orchestrating Design Brilliance
 Design leaders are master conductors of process pipelines. They orchestrate seamless workflows that guide teams through each stage of the design process, ensuring alignment, efficiency, and timely delivery. By nurturing a culture of continuous improvement, they refine and optimize processes to drive excellence.
 
+> [The Wild Journey of Crafting a Product Design Pipeline](https://dribbble.com/shots/21949773-Product-Design-Pipeline)
+
 ![Leadership](/images/illustrations/undraw_team_collaboration_re_ow29.svg)
 
 # Handovers: The Art of Effective Collaboration
 Design leaders understand the critical importance of smooth handovers to UX writers and developers. They facilitate clear communication, provide comprehensive documentation, and encourage collaboration to ensure that design intent is effectively translated into compelling user experiences.
 
+> [Seamless Success: Mastering the Art of Design Handoffs](https://dribbble.com/shots/21939535-Seamless-Success-Mastering-the-Art-of-Design-Handoffs)
+
 ![Leadership](/images/illustrations/undraw_group_selfie_re_h8gb.svg)
 
 # The Power of Attention: Tools for Engaging and Effective Meetings
 Design leaders understand that meetings are not just time-fillers but valuable opportunities for collaboration and decision-making. They employ various tools and techniques to facilitate focused discussions, encourage active participation, and ensure that everyone's voice is heard, making each meeting a productive and enjoyable experience.
+
+> [We Need to Talk (the Good Way) - From Perplexed Expressions to Empowered Designers](https://dribbble.com/shots/21948809-From-Perplexed-Expressions-to-Empowered-Designers)
 
 ![Leadership](/images/illustrations/undraw_creative_thinking_re_9k71.svg)
 

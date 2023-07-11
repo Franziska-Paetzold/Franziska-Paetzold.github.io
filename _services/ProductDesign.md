@@ -8,7 +8,10 @@ With expertise rooted in a deep understanding of emotion, aesthetics, and user-c
 
 ![Product Design](/images/illustrations/undraw_details_8k13.svg)
 
-> For a showcase of my product design prowess, check out my collection of work on my [Dribbble account](https://dribbble.com/BeautyAndTheByte). Have a look for the articles with light green background. 
+> For a showcase of my product design prowess, check out my collection of work on my [Dribbble account](https://dribbble.com/BeautyAndTheByte). Have a look for the articles with light green background.           
+> - [Badges - Modern badges for old-fashioned software](https://dribbble.com/shots/21929627-Modern-badges-for-old-fashioned-software)             
+> - [Account Cards - ATTENTION: this approach triggers every CEO…](https://dribbble.com/shots/21936747-ATTENTION-this-approach-triggers-every-CEO)            
+> - [Paper Prototypes: The Playful Path to Prototyping Paradise!](https://dribbble.com/shots/21948573-Paper-Prototypes-The-Playful-Path-to-Prototyping-Paradise)          
 
 # Product Psychology
 
@@ -95,4 +98,7 @@ Design management is the art of balancing creativity and business objectives. It
 
 ![Product Design](/images/illustrations/undraw_mobile_web_-2-g8b.svg)
 
-> For a showcase of my product design prowess, check out my collection of work on my [Dribbble account](https://dribbble.com/BeautyAndTheByte). Have a look for the articles with light green background. 
+> For a showcase of my product design prowess, check out my collection of work on my [Dribbble account](https://dribbble.com/BeautyAndTheByte). Have a look for the articles with light green background.            
+> - [Badges - Modern badges for old-fashioned software](https://dribbble.com/shots/21929627-Modern-badges-for-old-fashioned-software)             
+> - [Account Cards - ATTENTION: this approach triggers every CEO…](https://dribbble.com/shots/21936747-ATTENTION-this-approach-triggers-every-CEO)            
+> - [Paper Prototypes: The Playful Path to Prototyping Paradise!](https://dribbble.com/shots/21948573-Paper-Prototypes-The-Playful-Path-to-Prototyping-Paradise)      
