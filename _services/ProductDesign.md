@@ -41,7 +41,7 @@ In the focus of my work are two emotions with increased importance because they 
 Another method I'm using in during the design processes is Marlows hierachy of needs. 
 To achieve happiness, we must satisfy the needs after each, not missing one of them and starting at the bottom. There is also one for interaction design.
 
-![hierarchy of needs for uis](\images\services\ed_hierarchy_of_needs_ui.PNG)
+![hierarchy of needs for UIs](\images\services\ed_hierarchy_of_needs_UI.PNG)
 
 
 ### Trust
