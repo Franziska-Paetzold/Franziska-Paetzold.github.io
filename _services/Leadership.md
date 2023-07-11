@@ -27,6 +27,7 @@ Embracing the concept of self-leadership, design leaders cultivate a sense of pe
 # Happiness Management Meetings: Spreading Joy in the Design Ecosystem
 Design leaders recognize the importance of fostering happiness within their teams. Through purposeful happiness management meetings, they create an environment that nurtures well-being, encourages collaboration, and sparks creativity. These meetings become a platform for sharing successes, addressing challenges, and nurturing a positive and supportive team culture.
 
+> [Balancing Productivity and Human Connection: Reigniting the Drive for Work](https://dribbble.com/shots/21970245-Reigniting-the-Drive-for-Work)
 > [About Paper Planes and Software Struggles](https://dribbble.com/shots/21945959-Paper-Planes-and-Software-Struggles)
 
 ![Leadership](/images/illustrations/undraw_in_the_office_re_jtgc.svg)
