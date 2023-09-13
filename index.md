@@ -11,4 +11,8 @@ show_call_box: true
 # Franziska Pätzold  
 ## Creative Director and Leader
 
-Embracing emotion, evolving products with trust and collaboration, and shaping a brighter future.
+Nothing changes if nothing changes.
+
+Make a change.  
+
+Hire me. 

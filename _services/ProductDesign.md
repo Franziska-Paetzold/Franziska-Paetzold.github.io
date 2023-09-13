@@ -9,8 +9,8 @@ With expertise rooted in a deep understanding of emotion, aesthetics, and user-c
 ![Product Design](/images/illustrations/undraw_details_8k13.svg)
 
 > For a showcase of my product design prowess, check out my collection of work on my [Dribbble account](https://dribbble.com/BeautyAndTheByte). Have a look for the articles with light green background.           
-> - [Badges - Modern badges for old-fashioned software](https://dribbble.com/shots/21929627-Modern-badges-for-old-fashioned-software)             
-> - [Account Cards - ATTENTION: this approach triggers every CEO…](https://dribbble.com/shots/21936747-ATTENTION-this-approach-triggers-every-CEO)            
+> - [Breaking Stereotypes: Why Icons Shouldn't Wear Ties](https://dribbble.com/shots/21969047-Breaking-Stereotypes-Why-Icons-Shouldn-t-Wear-Ties)
+> - [Badges - Modern badges for old-fashioned software](https://dribbble.com/shots/21929627-Modern-badges-for-old-fashioned-software)                   
 > - [Paper Prototypes: The Playful Path to Prototyping Paradise!](https://dribbble.com/shots/21948573-Paper-Prototypes-The-Playful-Path-to-Prototyping-Paradise)          
 
 # Product Psychology
@@ -19,6 +19,8 @@ Product psychology is the study of how human behavior and psychology intersect w
 
 ![Product Design](/images/illustrations/undraw_designer_life_re_6ywf.svg)
 
+
+> - [Account Cards - ATTENTION: this approach triggers every CEO…](https://dribbble.com/shots/21936747-ATTENTION-this-approach-triggers-every-CEO)      
 
 
 ## Emotion as a key to success
@@ -96,9 +98,10 @@ The design will change by time. We won't just add components but we will go over
 
 Design management is the art of balancing creativity and business objectives. It involves overseeing the design process, nurturing the creative team, and aligning design efforts with strategic goals to drive successful outcomes. Effective design management requires a blend of leadership, communication, and a deep understanding of both design principles and business strategies.
 
+> - [Breaking Stereotypes: Why Icons Shouldn't Wear Ties](https://dribbble.com/shots/21969047-Breaking-Stereotypes-Why-Icons-Shouldn-t-Wear-Ties)
+> - [Badges - Modern badges for old-fashioned software](https://dribbble.com/shots/21929627-Modern-badges-for-old-fashioned-software)                   
+> - [Paper Prototypes: The Playful Path to Prototyping Paradise!](https://dribbble.com/shots/21948573-Paper-Prototypes-The-Playful-Path-to-Prototyping-Paradise)   
+
 ![Product Design](/images/illustrations/undraw_mobile_web_-2-g8b.svg)
 
 > For a showcase of my product design prowess, check out my collection of work on my [Dribbble account](https://dribbble.com/BeautyAndTheByte). Have a look for the articles with light green background.            
-> - [Badges - Modern badges for old-fashioned software](https://dribbble.com/shots/21929627-Modern-badges-for-old-fashioned-software)             
-> - [Account Cards - ATTENTION: this approach triggers every CEO…](https://dribbble.com/shots/21936747-ATTENTION-this-approach-triggers-every-CEO)            
-> - [Paper Prototypes: The Playful Path to Prototyping Paradise!](https://dribbble.com/shots/21948573-Paper-Prototypes-The-Playful-Path-to-Prototyping-Paradise)      
